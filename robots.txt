@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brbqhx.github.io/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/app/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/assets/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/css/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/data/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/includes/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/item/sitemap.html.gz
+Sitemap: https://brbqhx.github.io/src/sitemap.html.gz
